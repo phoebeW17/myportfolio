@@ -40,6 +40,12 @@ h1, h2 {
     background-color: white;
 }
 
+#profile-image {
+    border: 2px solid #1f7798;
+    width: 300px;
+    height: auto;
+}
+
 /*Portfolio*/
 
 #portfolio {
