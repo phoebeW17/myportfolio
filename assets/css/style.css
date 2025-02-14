@@ -24,16 +24,6 @@ h1, h2 {
     border-radius: 0;
 }
 
-/*targets newsletter, contact-form and modal sign up buttons*/
-.custom-btn {
-    background-color: #1f7798;
-    border: #1f7798;
-}
-
-.custom-btn:hover {
-    background-color: #1d6d8a;
-    border: #1d6d8a;
-}
 /* About section */
 
 #about {
@@ -64,6 +54,11 @@ h1, h2 {
 #portfolio .card-text {
     min-height: 120px;
 }
+
+.card-img-top {
+    height: 400px; /* Adjust the height as per your requirement */
+    object-fit: cover;
+  }
 
 /*Contact section*/
 
