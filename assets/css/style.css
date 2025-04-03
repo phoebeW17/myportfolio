@@ -58,13 +58,15 @@ h1, h2 {
     background-color: #1f7798;
 }
 
-#portfolio .card-text {
-    min-height: 120px;
+#portfolio .card {
+    height: 100%;
+    width: auto;
 }
 
 .card-img-top {
-    height: 400px; /* Adjust the height as per your requirement */
+    height: 200px; /* Adjust the height as per your requirement */
     object-fit: cover;
+    width: 100%;
   }
 
 /*Contact section*/
